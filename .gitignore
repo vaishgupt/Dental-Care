@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDEs
+.vscode/
+*.swp
+*.swo
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db

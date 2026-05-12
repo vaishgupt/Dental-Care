@@ -87,13 +87,6 @@ Example prompts:
 
 Type `quit`, `exit`, or `bye` to end the session.
 
-## Recruiter-Friendly Calling Card
-
-This repository highlights:
-- end-to-end system design combining AI, tooling, and data integration
-- clean separation of conversational logic from state management
-- a realistic CSV-backed workflow that can be extended to databases, APIs, or analytics dashboards
-- thoughtful prompt engineering, slot validation, and retry-safe tool execution
 
 ## Notes
 
